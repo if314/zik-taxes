@@ -1,0 +1,101 @@
+
+.featured-services .title a {
+    color: #121243;
+}
+
+#topbar {
+    background: #ee5c54;
+    color: #fff;
+}
+#header .logo a span {
+    color: #ee5c54;
+}
+#header .logo a {
+    color: #121243;
+}
+
+a:hover {
+    color: #ee5c54;
+}
+
+#hero .btn-get-started {
+    background: #1b468c;
+}
+a {
+    color: #1b468c;
+}
+a {
+    color: #1b468c;
+}
+
+.nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
+    color: #ee5c54;
+}
+
+.nav-menu > ul > li > a:before {
+    background-color: #ee5c54;
+}
+
+.featured-services .icon-box:hover::before {
+    background: #1b468c;
+}
+
+.featured-services .icon i {
+    color: #ee5c54;
+}
+
+.section-title h2 {
+    color: #ee5c54;
+}
+
+.section-title h3 span {
+    color: #1b468c;
+}
+.about .content ul i {
+    background: #fff;
+    color: #1b468c;
+}
+
+.counts .count-box i {
+    background: #ee5c54;
+}
+
+.timeline > li .timeline-image {
+    background-color: #ee5c54;
+
+}
+.pricing .featured h3 {
+    color: #fff;
+    background: #1b468c;
+}
+
+.pricing .box h4 {
+    color: #1b468c;
+}
+
+.pricing .btn-buy {
+    background: #1b468c;
+}
+
+}
+.contact .info-box i {
+    color: #1b468c;
+
+}
+.btncolor{
+    background-color: #1b468c;
+}
+
+#footer .footer-top .footer-contact h3 span {
+    color: #1b468c;
+}
+
+.back-to-top i {
+    background: #1b468c;
+    color: #fff;
+}
+
+#footer .footer-top .social-links a {
+    background: #1b468c;
+    color: #fff;
+}
