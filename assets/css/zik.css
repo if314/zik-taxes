@@ -1,7 +1,11 @@
 .serv {
     padding: 2rem;
+    color: black;
+    font-size: 1rem;
+}
+.featured-services .description {
+    font-size: 0.9rem;
     color: #999;
-    font-size: 0.8rem;
 }
 .serv li {
     padding: 0.5rem;
