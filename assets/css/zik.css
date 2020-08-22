@@ -22,6 +22,18 @@ button a{
   background-color: #ee5c54;
   color:#fff;
 }
+
+.bounce-6 {
+  animation-name: bounce-6;
+  animation-timing-function: ease;
+}
+.box {
+  align-self: flex-end;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  transform-origin: bottom;
+  margin-left: 3rem;
+}
 /*--------------------------------------------------------------
 # Our Process - timeline
 --------------------------------------------------------------*/
