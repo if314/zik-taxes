@@ -18,7 +18,10 @@ button a{
     box-shadow: 0 0 30px rgba(214, 215, 216, 0.4);
     padding: 55px;
 }
-
+.section-bg-red {
+  background-color: #ee5c54;
+  color:#fff;
+}
 /*--------------------------------------------------------------
 # Our Process - timeline
 --------------------------------------------------------------*/
