@@ -34,6 +34,12 @@ button a{
   transform-origin: bottom;
   margin-left: 3rem;
 }
+.th{
+  font-size: 70%;
+}
+.pricing .box ul {
+  text-align: left;
+}
 /*--------------------------------------------------------------
 # Our Process - timeline
 --------------------------------------------------------------*/
