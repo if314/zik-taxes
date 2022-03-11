@@ -216,3 +216,14 @@ button a{
 /*--------------------------------------------------------------
 # END    ___Our Process - timeline
 --------------------------------------------------------------*/
+.stylebutton{
+  padding: 10px !important;
+  border-radius: 10px !important;
+  border: 1px solid #94322c;
+}
+
+.stylebutton20{
+  padding: 20px !important;
+  border-radius: 10px !important;
+  border: 1px solid #94322c;
+}
